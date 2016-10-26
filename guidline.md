@@ -1,6 +1,6 @@
 # StyleGuide
 
-メモ
+メモ1
 
 
 > color
